@@ -1,0 +1,11 @@
+{
+  "org": "google",
+  "repo": "gin-config",
+  "versions": [
+    {
+      "commit": "bda557dedb8c64d352ece8328eee6c7b01c8931f",
+      "tag": "",
+      "parsed_at": "2026-10-18T00:55:04.318725+00:00"
+    }
+  ]
+}
